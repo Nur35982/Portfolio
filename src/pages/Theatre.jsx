@@ -10,7 +10,7 @@ const Theatre = () => {
     {
       title: 'Raktokorobi',
       playwright: 'Rabindranath Tagore',
-      role: 'Performer',
+      role: 'Organizer',
       year: '2023',
       description: 'A classic Bengali drama exploring human emotions and societal structures.',
       icon: <Theater className="h-6 w-6 text-primary" />,
@@ -18,7 +18,7 @@ const Theatre = () => {
     {
       title: 'Othello',
       playwright: 'William Shakespeare',
-      role: 'Performer & Organizer',
+      role: 'Organizer',
       year: '2023',
       description: 'Shakespearean tragedy performed with modern interpretation.',
       icon: <Theater className="h-6 w-6 text-primary" />,
@@ -26,7 +26,7 @@ const Theatre = () => {
     {
       title: 'Tartuffe',
       playwright: 'Molière',
-      role: 'Performer & Coordinator',
+      role: 'Coordinator',
       year: '2024',
       description: 'French comedy exploring hypocrisy and religious pretense.',
       icon: <Theater className="h-6 w-6 text-primary" />,
