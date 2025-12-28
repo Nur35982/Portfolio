@@ -25,7 +25,7 @@ export const experiences = [
   },
   {
     id: 3,
-    title: "Founder",
+    title: "Founder & CEO",
     company: "Ekok - AI-based Digital Prescription Platform",
     period: "Present",
     location: "Incubated at NSU Startup Next & ICT Division UIHP",
