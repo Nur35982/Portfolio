@@ -13,7 +13,7 @@ const Footer = () => {
           <div className="space-y-2">
             <div className="flex items-center space-x-2">
               <Mail size={18} />
-              <a href="mailto:nur35982@gmail.com" className="hover:underline">nur35982@gmail.com</a>
+              <a href="mailto:mdnurnobi.islam@outlook.com" className="hover:underline">mdnurnobi.islam@outlook.com</a>
             </div>
             <div className="flex items-center space-x-2">
               <Phone size={18} />
