@@ -37,7 +37,7 @@ const Home = () => {
             <a href="https://www.linkedin.com/in/nurnobi-islam-nsu/" target="_blank" rel="noopener noreferrer" className="btn btn-secondary">
               <Linkedin size={20} className="mr-2" /> LinkedIn
             </a>
-            <a href="mailto:nur35982@gmail.com" className="btn btn-success">
+            <a href="mailto:nurnobiislam.me@gmail.com" className="btn btn-success">
               <Mail size={20} className="mr-2" /> Contact
             </a>
           </div>
